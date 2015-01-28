@@ -1,0 +1,7 @@
+html, body {
+	height: 100%;
+	width: 100%;
+	background: hsl(191, 22%, 75%);
+	text-align: center;
+	font-family: 'Didot';
+}
